@@ -1,4 +1,5 @@
 # Predictive Modeling for Agriculture
+Dive into agriculture using supervised machine learning and feature selection to aid farmers in crop cultivation and solve real-world problems.
 
 ## Project Description
 A farmer reached out to you as a machine learning expert seeking help to select the best crop for his field. Due to budget constraints, the farmer explained that he could only afford to measure one out of the four essential soil measures:
